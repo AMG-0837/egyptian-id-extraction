@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+paddlepaddle==3.2.2
+paddleocr
+pandas
+matplotlib
+numpy
